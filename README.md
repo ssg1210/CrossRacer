@@ -1,12 +1,12 @@
 # CrossRacer
 This is a fun 2-D car racing Indi game. Built and implemented by me
 
-#Objective
+# Objective
 The objective of the game is to avoid your/user’s car from crashing into an incoming opponent’s(computer) car. The 
 opponent’s car comes from the opposite direction and with variable speed. The game aims to cross as many incoming cars as possible this would count towards 
 your final score. 
 
-#Project Approach  
+# Project Approach  
 The project is mainly implemented in the following sequence: - 
 1. Initializing the user’s car location and further taking an input to update it’s 
 movement by adding a listener. There are checks to ensure when the button 
@@ -21,7 +21,7 @@ similar way “Flappy Birds” game is made.
 collision. 
 5. Keeping a counter for the final score displayed at the end of the game.
 
-#Software, Documentation and devices 
+# Software, Documentation and devices 
 used: 
 
 • Microsoft Visual Studio code 
